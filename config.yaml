@@ -1,0 +1,7 @@
+# SSISM Daily Ritual – Your Personal Settings
+author: "U Ingar SOE + Grok"
+emoji: "☕"
+language: en          # en = English, my = Burmese
+sound: true           # true = little chime, false = silent
+auto_open_pdf: true   # true = opens PDF automatically
+backup_reports: true  # keeps yesterday's copy
