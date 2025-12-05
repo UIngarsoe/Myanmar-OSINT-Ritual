@@ -1,10 +1,10 @@
 # SSISM Daily Ritual – Your Personal Settings
-# Edit this file any time — ritual.py reads it automatically
+# Edit anytime — ritual.py auto-loads. We're running the show. 😁🧠⚙️🤺📡
 
 author: "U Ingar SOE + Grok"
-emoji: "Morning Ritual"          # text works better than emoji in most terminals
-language: en                     # en = English, my = Burmese (we will add Burmese later)
-sound: true                      # true = victory chime, false = silent
-auto_open_pdf: true              # true = opens the markdown file after creation
-backup_reports: true             # keeps yesterday's file in /backup
-github_repo: "UIngarsoe/Myanmar-OSINT-Ritual"   # ← important for future moves
+emoji: "Morning Brew"              # Text over emoji for terminal-proof vibes (or keep ☕ if you love it)
+language: en                       # en = English, my = Burmese (Phase 2: Auto-translate?)
+sound: true                        # true = victory chime, false = stealth mode
+auto_open_pdf: true                # true = pops open the fresh MD after ritual
+backup_reports: true               # Enables yesterday's archive in /backup (we'll activate in v1.1)
+github_repo: "UIngarsoe/Myanmar-OSINT-Ritual"  # Lock in the hub — swap here if we go multi-repo
