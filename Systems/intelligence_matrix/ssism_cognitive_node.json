@@ -1,0 +1,76 @@
+{
+  "system_metadata": {
+    "framework": "SSISM / MYISM",
+    "component": "Core Philosophy / Dissemination Engine (Sentinel V1)",
+    "architect": "U Ingar Soe",
+    "deployment_date": "2026-06-22T17:00:00Z",
+    "classification": "Public Civil Education Framework",
+    "status": "Operational / Deployed",
+    "architectural_axiom": "Reality Before Narrative"
+  },
+  "cognitive_matrix_dimensions": {
+    "tactical_auditing_tier": {
+      "logical_analytical": {
+        "id": "INTEL_04",
+        "burmese_translation": "စဉ်းစားဆင်ခြင်မှု၊ ခွဲခြမ်းစိတ်ဖြာမှု",
+        "operational_role": "Deconstruction of institutional rhetoric, narrative warfare analysis, and identifying legitimacy laundering."
+      },
+      "numerical": {
+        "id": "INTEL_08",
+        "burmese_translation": "ကိန်းဂဏန်းများကို နားလည်နိုင်စွမ်း",
+        "operational_role": "Algorithmic risk score management, mathematical modeling, and Sigmoid function parameterization."
+      },
+      "digital_machine": {
+        "id": "INTEL_28",
+        "burmese_translation": "နည်းပညာ၊ စက်ပစ္စည်းများကို နားလည်မှု",
+        "operational_role": "Automation, execution of BASH security scripts, and integrity monitoring via SHA-256 validation seals."
+      },
+      "memory": {
+        "id": "INTEL_11",
+        "burmese_translation": "မှတ်ဉာဏ်",
+        "operational_role": "Static historical data retention; distinct from multi-dimensional real-time intelligence."
+      }
+    },
+    "cognitive_shield_tier": {
+      "cognitive_flexibility": {
+        "id": "INTEL_26",
+        "burmese_translation": "လျင်မြန်စွာ လိုက်လျောညီထွေ နေနိုင်စွမ်း",
+        "operational_role": "Dynamic adjustments to shifting cyber intrusion techniques and real-time narrative adaptation."
+      },
+      "street_smart": {
+        "id": "INTEL_05",
+        "burmese_translation": "ဘဝပညာ ကြွယ်ဝခြင်း",
+        "operational_role": "Intuitive front-line detection of engineering baits, malicious urgency indicators, and advance-fee anomalies."
+      },
+      "intra_personal": {
+        "id": "INTEL_03",
+        "burmese_translation": "မိမိကိုယ်မိမိ သိရှိခြင်း",
+        "operational_role": "Emotional self-regulation under tactical coercion to preempt structural cognitive breakdown."
+      }
+    },
+    "dissemination_narrative_tier": {
+      "persuasive": {
+        "id": "INTEL_10",
+        "burmese_translation": "စည်းရုံးသိမ်းသွင်းနိုင်စွမ်း",
+        "operational_role": "Formulating high-impact strategic dossiers and civil briefings that drive defensive mobilization."
+      },
+      "empathic": {
+        "id": "INTEL_19",
+        "burmese_translation": "ကိုယ်ချင်းစာနိုင်စွမ်း",
+        "operational_role": "Executing No-Shame, No-Judgement response frameworks to remove societal stigma from cyber victimization."
+      }
+    }
+  },
+  "defensive_mechanics": {
+    "neuroplasticity_gym_protocol": {
+      "axiom": "Cognitive defense capability is a trainable structural configuration, not a static limitation.",
+      "action": "Execute structured daily training iterations across targeted weak nodes to systematically eliminate cognitive vulnerabilities."
+    },
+    "mitigation_triggers": {
+      "advance_fee_anomaly_lockout": {
+        "condition": "Asymmetric payout bait combined with upfront deposit requirement",
+        "action": "Trigger mandatory 24-hour verification window; intercept network borrowing sequences; execute external audit check."
+      }
+    }
+  }
+}
