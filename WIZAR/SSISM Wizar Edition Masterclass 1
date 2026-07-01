@@ -111,7 +111,66 @@ Repair quietly.
 
 Leave the world better than you found it.
 
+SSISM Evolution
 
+Sentinel
+    ↓
+Reality Before Narrative
+    ↓
+Morning Ritual
+    ↓
+Wizar Engine
+    ↓
+Daily Educational Stories
+    ↓
+Living Knowledge Repository
+
+{
+  "schema_version": "1.0",
+  "engine": "Wizar_Bamar_Enlightenment_Engine",
+  "document_type": "Wizar_Principle",
+  "principle_id": "WP-001",
+  "title": "Wizar Principle No. 1",
+  "subtitle": "The World Needs Repairers",
+  "author": "U Ingar Soe",
+  "date": "2026-07-01",
+  "classification": "Public Civic Education",
+  "language": [
+    "English",
+    "Burmese"
+  ],
+  "core_principle": {
+    "see": "See clearly.",
+    "act": "Act humbly.",
+    "repair": "Repair quietly.",
+    "legacy": "Leave the world better than you found it."
+  },
+  "mission": "Wisdom is measured not by how many problems we discover, but by how many problems we quietly help solve.",
+  "philosophy": {
+    "foundation": "Reality before narrative.",
+    "purpose": "Encourage ethical action through wisdom, humility, and service.",
+    "focus": "Repair before recognition."
+  },
+  "classroom": {
+    "professor": "The Wizar Professor guides learning through questions, stories, and lived experience.",
+    "students": "Six technologically skilled students challenge, explore, and learn together.",
+    "goal": "Mutual learning through curiosity, ethics, and respectful dialogue."
+  },
+  "keywords": [
+    "Wisdom",
+    "Humility",
+    "Service",
+    "Repair",
+    "Lokapala",
+    "Civic Education",
+    "Bamar Enlightenment",
+    "Wizar Engine",
+    "SSISM"
+  ],
+  "status": "FOUNDING PRINCIPLE",
+  "license": "MIT",
+  "repository": "Wizar_Bamar_Enlightenment_Engine"
+}
 
 
 ---
