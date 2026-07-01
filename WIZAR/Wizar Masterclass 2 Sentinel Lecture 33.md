@@ -1,5 +1,5 @@
 # SSISM / MYISM Wizar System Matrix
-##Wizar System Masterclass 2 Sentinel Lecture 33: The Theatrical Engine & Pattern Verification
+## Wizar System Masterclass 2 Sentinel Lecture 33: The Theatrical Engine & Pattern Verification
 ### မာစတာကလပ်စ် ၃၃ - ဇာတ်ခုံဗျူဟာအင်ဂျင်နှင့် ပုံစံတူညီချက်များအား အတည်ပြုခြင်း
 ---
 ## 1. Executive Overview / အကျဉ်းချုပ် ရှုမြင်ချက်
