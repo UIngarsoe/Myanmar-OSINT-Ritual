@@ -95,3 +95,76 @@ By the end of this Masterclass, students should be able to:
 
 ## 📈 SSISM Evolution Pipeline / ဆင့်ကဲပြောင်းလဲမှု ဖြစ်စဉ်
 
+Sentinel (ကင်းစောင့်တပ်)
+↓
+Reality Before Narrative (ဇာတ်လမ်းနောက်ခံမတိုင်မီ လက်တွေ့ပကတိ)
+↓
+Morning Ritual (မနက်ခင်း ဝတ်ရွတ်စဉ်)
+↓
+Wizar Engine (ဝိဇ္ဇာအင်ဂျင်)
+↓
+Daily Educational Stories (နေ့စဉ် လူထုပညာပေးဇာတ်လမ်းများ)
+↓
+Living Knowledge Repository (ရှင်သန်နေသော အသိပညာ သိုလှောင်ရုံ)
+
+
+---
+{
+  "schema_version": "1.0",
+  "engine": "Wizar_Bamar_Enlightenment_Engine",
+  "document_type": "Wizar_Principle",
+  "principle_id": "WP-001",
+  "title": "Wizar Principle No. 1 / ဝိဇ္ဇာ အခြေခံမူ အမှတ် (၁)",
+  "subtitle": "The World Needs Repairers / လောကကြီးသည် ပြုပြင်မွမ်းမံသူများကို လိုအပ်နေသည်",
+  "author": "U Ingar Soe",
+  "date": "2026-07-01",
+  "classification": "Public Civic Education",
+  "language": [
+    "English",
+    "Burmese"
+  ],
+  "core_principle": {
+    "see": "See clearly. / အမှန်ကို အတတ်သိမြင်ပါ။",
+    "act": "Act humbly. / နှိမ့်ချစွာ လုပ်ဆောင်ပါ။",
+    "repair": "Repair quietly. / ဆိတ်ဆိတ်ငြိမ်ငြိမ် ပြုပြင်ပါ။",
+    "legacy": "Leave the world better than you found it. / မင်းတို့ မတွေ့ရှိခင်ကထက် ဤလောကကြီးကို ပိုမိုကောင်းမွန်အောင် ထားရစ်ခဲ့ပါ။"
+  },
+  "mission": "Wisdom is measured not by how many problems we discover, but by how many problems we quietly help solve.",
+  "philosophy": {
+    "foundation": "Reality before narrative.",
+    "purpose": "Encourage ethical action through wisdom, humility, and service.",
+    "focus": "Repair before recognition."
+  },
+  "classroom": {
+    "professor": "The Wizar Professor guides learning through questions, stories, and lived experience.",
+    "students": "Six technologically skilled students challenge, explore, and learn together.",
+    "goal": "Mutual learning through curiosity, ethics, and respectful dialogue."
+  },
+  "keywords": [
+    "Wisdom",
+    "Humility",
+    "Service",
+    "Repair",
+    "Lokapala",
+    "Civic Education",
+    "Bamar Enlightenment",
+    "Wizar Engine",
+    "SSISM"
+  ],
+  "status": "FOUNDING PRINCIPLE",
+  "license": "MIT",
+  "repository": "Wizar_Bamar_Enlightenment_Engine"
+}
+
+
+## 🛡️ Cryptographic Verification Cards
+
+### English Source Log Validation
+* **File Target:** `WIZAR/SSISM Wizar Edition Masterclass 1`
+* **Repository:** `UIngarsoe/Myanmar-OSINT-Ritual`
+* **Commit Reference:** `9d8c0aac4d5ed0ad794cdb04868829cbeb968ac6`
+* **SHA-256 Checksum:** `cb251c37b79a0cf5c4daeb270a3be6bdfb3cb8675ba3be96ec8c903823758b90`
+
+```bash
+curl -sL "[https://raw.githubusercontent.com/UIngarsoe/Myanmar-OSINT-Ritual/9d8c0aac4d5ed0ad794cdb04868829cbeb968ac6/WIZAR/SSISM%20Wizar%20Edition%20Masterclass%201](https://raw.githubusercontent.com/UIngarsoe/Myanmar-OSINT-Ritual/9d8c0aac4d5ed0ad794cdb04868829cbeb968ac6/WIZAR/SSISM%20Wizar%20Edition%20Masterclass%201)" | sha256sum
+
