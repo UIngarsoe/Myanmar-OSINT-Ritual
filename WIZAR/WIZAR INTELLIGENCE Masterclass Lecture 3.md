@@ -91,3 +91,66 @@ Then your four core principles become very clear:
 🎯 Learning Outcome
 
 ဤသင်ခန်းစာအပြီးတွင် ကျောင်းသားများသည် အချက်အလက်များကို စိတ်ရှည်စွာ ဆင်ခြင်သုံးသပ်နိုင်ရန်၊ သက်သေအခြေပြု တွေးခေါ်နိုင်ရန်၊ မိမိ၏ အမြင်စောင်းမှုကို ပြန်လည်သုံးသပ်နိုင်ရန်နှင့် ပညာဖြင့် ဆုံးဖြတ်တတ်သော နိုင်ငံသားတစ်ဦး ဖြစ်လာစေရန် ရည်ရွယ်သည်။
+
+🌿 WIZAR INTELLIGENCE
+လူထုထောက်လှမ်းရေး အသိပညာ (Civic Intelligence Education)
+ဝိဇ္ဇာအင်တယ်လီဂျင့် (Wizar Intelligence) သည် ထောက်လှမ်းရေးပညာကို စိတ်ဝင်စားသော စာဖတ်သူများအတွက် လူထုအသိပညာပေး ရည်ရွယ်ချက်ဖြင့် ဖန်တီးထားသော ပညာပေးသင်ခန်းစာစီးရီးဖြစ်သည်။
+ဤသင်ခန်းစာများ၏ ရည်ရွယ်ချက်မှာ လူများအား ထောက်လှမ်းရေးအဖွဲ့အစည်းများ၏ သမိုင်း၊ စဉ်းစားပုံ၊ သတင်းအချက်အလက် စိစစ်ပုံ၊ ဝါဒဖြန့်မှုနှင့် လှည့်ဖြားမှုများကို သတိပြုနိုင်သည့် အတွေးအခေါ်၊ သက်သေအခြေပြု ဆင်ခြင်နိုင်စွမ်းနှင့် လူမှုဘဝအတွက် လိုအပ်သော Civic Intelligence ကို တိုးတက်စေရန် ဖြစ်သည်။
+Wizar Intelligence သည် မည်သူ့ကိုမျှ လှည့်ဖြားရန်၊ အန္တရာယ်ပြုရန် သို့မဟုတ် ဥပဒေမဲ့လုပ်ဆောင်မှုများကို သင်ကြားပေးခြင်း မဟုတ်ပါ။
+ကျွန်ုပ်တို့ သင်ကြားလိုသည်မှာ—
+အချက်အလက်ကို မည်သို့ စိစစ်ရမည်။
+လှည့်ဖြားမှု၊ ဝါဒဖြန့်မှုနှင့် စိတ်ပိုင်းဆိုင်ရာ လှုံ့ဆော်မှုများကို မည်သို့ သတိပြုရမည်။
+အလျင်စလို မဆုံးဖြတ်ဘဲ သက်သေအပေါ် အခြေခံ၍ မည်သို့ ဆင်ခြင်ရမည်။
+မိမိကိုယ်တိုင်နှင့် မိမိအသိုင်းအဝိုင်းကို မည်သို့ ကာကွယ်နိုင်မည်။
+Wizar Principle
+"ပညာရှိသူသည် အရာရာကို မယုံလွယ်သလို၊ မငြင်းပယ်လွယ်ပါ။ သက်သေ၊ အကြောင်းအရာနှင့် အချိန်ကာလအလိုက် ထင်ရှားလာသော ပုံစံများကို စိတ်ရှည်စွာ လေ့လာပြီးမှ ဆုံးဖြတ်သည်။"
+ဤသည်မှာ Wizar Intelligence ၏ အခြေခံစိတ်ဓာတ်ဖြစ်သည်။
+
+
+WIZAR educational goal
+
+Teaching people how to recognize potential manipulation before accepting a claim is very different from teaching them how to manipulate others. 
+A course on critical thinking, observation, and evidence evaluation can help people become more resilient to misinformation, scams, coercion, and psychological pressure.
+
+Wizar see things with analysis mindset rather than suspicion.
+
+The purpose of Wizar Intelligence is not to teach distrust. It is to teach disciplined observation. A Wizar learns to pause, observe, compare, verify, and reflect before accepting claims or making important decisions.
+
+
+
+A practical Wizar mindset is:
+
+1. Pause.
+Don't let urgency force an immediate conclusion.
+
+2. Observe.
+Separate what you directly observed from what you were told.
+
+3. Compare.
+Do words, actions, and available evidence align over time?
+
+4. Consider alternatives.
+Ask whether there are other reasonable explanations before settling on one.
+
+5. Verify.
+Look for reliable, independent evidence before accepting important claims.
+
+6. Reflect.
+Recognize that your own assumptions and emotions can influence your judgment.
+
+7. Act responsibly.
+Make decisions proportionate to the strength of the evidence.
+
+Wizar Spirit
+
+> "A Wizar does not seek reasons to believe or disbelieve. A Wizar seeks reasons to understand."
+
+
+
+The Wizar Intelligence system is a civic education system focused on thoughtful analysis, evidence-based reasoning, and ethical judgment rather than suspicion or deception. It also aligns with SSISM broader goal of helping communities become more resilient against manipulation.
+
+It's the duties of the Wizar to protect the truth through wisdom. Traditional Bamar Enlightenment understanding of Wizar is a long-standing guardian of the BUDDHA spiritual sovereignty in this universe as a human form suffering as human but livig as wise humble human beings protecting the mankind secretly with extraordinary disciplines knowledges enlightened the minds of the any humble souls.
+
+2nd July 2026
+U Ingar Soe 
+WIZAR INTELLIGENCE Parameter Ritual Reflection SSISM Sentinel. 
