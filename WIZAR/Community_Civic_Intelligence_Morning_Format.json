@@ -1,0 +1,56 @@
+{
+  "system_metadata": {
+    "repository": "SSISM_INTEL_SENTINEL",
+    "title_en": "Community Civic Intelligence Morning Format",
+    "title_mm": "နေ့စဉ် ပြည်သူ့ အသိဉာဏ်ပညာ မနက်ခင်း ဖွဲ့စည်းပုံ",
+    "version": "July 2026",
+    "purpose": "Daily civic intelligence gathering and reflection tool for leadership, NUG, PDF, civil society organizations, and community groups",
+    "target_departments": ["Research & Intelligence", "Information & Technology", "Leadership Training", "Public Education"]
+  },
+  "morning_structure": {
+    "facilitator": "One Wiseman / Senior Facilitator (Wizar)",
+    "participants": 6,
+    "tools": "6 mobile phones + any preferred AI (Grok, Claude, Gemini, ChatGPT, etc.)",
+    "duration": "45-60 minutes",
+    "goal": "Build collective understanding of current reality through diverse perspectives and Dharma-informed reflection"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "description": "Wiseman opens the session with calm greeting and sets the intention for clear seeing (Vipassana)."
+    },
+    {
+      "step": 2,
+      "description": "Each of the 6 participants shares one paragraph (compact) on today's world / national situation from media they followed."
+    },
+    {
+      "step": 3,
+      "description": "Participants open their chosen AI and ask for one compact paragraph analysis or reflection on their input."
+    },
+    {
+      "step": 4,
+      "description": "Participants send their AI paragraphs to the group. Wiseman compiles the 6 perspectives."
+    },
+    {
+      "step": 5,
+      "description": "Wiseman adds Final Morning Reflection, connecting inputs to Dharma principles (Avijja, Lokapala Dhamma, clear seeing, etc.)."
+    },
+    {
+      "step": 6,
+      "description": "Session ends with shared commitment and Sadhu. Community intelligence report is produced."
+    }
+  ],
+  "character_profiles_for_future_training": {
+    "participant_1": { "name": "Maung Kyaw Hein", "profile": "Gen Z, curious, follows international media, focuses on diplomacy and China-NUG relations" },
+    "participant_2": { "name": "Maung Zaw Win", "profile": "Gen Z, emotional, easily affected by negative news, seeks emotional balance" },
+    "participant_3": { "name": "Ma Thiri", "profile": "Young woman, optimistic about resistance resilience, focuses on people's endurance" },
+    "participant_4": { "name": "Maung Ba Thi", "profile": "Youngest, tech-savvy, interested in information warfare and cyber manipulation" },
+    "participant_5": { "name": "U Kyan Pwal", "profile": "Eldest, experienced, emphasizes moral steadfastness and long-term vision" },
+    "participant_6": { "name": "Maung Phyo", "profile": "Balanced, practical, focuses on ground reality and administrative challenges" }
+  },
+  "system_status": {
+    "integrity": "SECURE",
+    "purpose": "Open-source template for daily civic intelligence practice",
+    "closing_seal": "Sadhu, Sadhu, Sadhu 🙏🌿"
+  }
+}
