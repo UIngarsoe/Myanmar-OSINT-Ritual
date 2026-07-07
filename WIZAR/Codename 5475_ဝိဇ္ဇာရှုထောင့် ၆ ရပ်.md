@@ -78,3 +78,71 @@
     ]
   }
 }
+
+# 🎓 SSISM Wizar Intelligence Edition — Masterclass Classroom 7 (Module B)
+## 📊 Part 2: 6 Student Decisions & 6 Wizar Perspectives
+### 🌿 Bamar Enlightenment Journal Project (BEJ 7 - Supplemental Analysis)
+
+**Curator:** U Ingar Soe (ဦးအင်္ဂါစိုး), SSISM Intel Sentinel  
+**Data Reference:** Codename 5475 Empirical Assessment Matrix  
+
+---
+
+## 📌 Introduction / မိတ်ဆက်
+This document contains the granular, localized civic assessments conducted by our 7-human intelligence nodes. It details the strategic tensions between administrative enforcement choices and grassroots human security priorities.
+
+ဤစာတမ်းတွင် ကျွန်ုပ်တို့၏ ၇ ဦးပါ အရပ်ဘက်ထောက်လှမ်းရေးကွန်ရက်မှ ပြုစုထားသော အသေးစိတ် ဒေသအခြေစိုက် အရပ်ဘက်ဆန်းစစ်ချက်များကို ဖော်ပြထားသည်။ အောက်ခြေမြေပြင်ရှိ အရပ်သားလူထု၏ လုံခြုံရေးဦးစားပေးမှုများနှင့် အုပ်ချုပ်ရေးယန္တရား၏ ဖိအားပေးရွေးချယ်မှုများအကြား ဖြစ်ပေါ်နေသော ဗျူဟာမြောက် တင်းမာမှုများကို အသေးစိတ် ဖော်ပြထားခြင်း ဖြစ်သည်။
+
+---
+
+## ⚖️ Analytical Matrix: 6 Decisions & 6 Perspectives
+
+### Decision 1: Resource Diversion vs. Local Survival
+* **English Perspective:** Administrative nodes at the grassroots level are forced to artificially suppress local price indexes by limiting supply access, aiming to satisfy top-down centralized 100-day targets. This creates acute artificial shortages in neighboring rural clusters.
+* **Burmese Perspective (ဝိဇ္ဇာရှုထောင့်):** ရက် ၁၀၀ အစီအစဉ်၏ ဗဟိုဦးစီးချက်များကို ကျေနပ်စေရန်အတွက် အောက်ခြေအုပ်ချုပ်ရေးအဖွဲ့များသည် ကုန်ပစ္စည်းစီးဆင်းမှုကို ကန့်သတ်ပြီး ဒေသတွင်း ကုန်ဈေးနှုန်းညွှန်းကိန်းများကို အတင်းအကျပ် ဖိနှိပ်နေရသည်။ ဤလုပ်ရပ်ကြောင့် အနီးနားရှိ ကျေးလက်ဒေသများတွင် တန်ဖိုးကြီးမားသော ကုန်ပစ္စည်းပြတ်လပ်မှုများကို တိုက်ရိုက်ဖြစ်ပေါ်စေသည်။
+
+---
+
+### Decision 2: Forensic Verification of Casualties
+* **English Perspective:** While official state media campaigns completely redact operations reporting, localized tracking indicates that 70% of the recorded 1,045 human rights violations occurred within highly contested agricultural corridors, disrupting active harvesting.
+* **Burmese Perspective (ဝိဇ္ဇာရှုထောင့်):** နိုင်ငံပိုင်မီဒီယာများက စစ်ဆင်ရေးသတင်းများကို လုံးဝ ဖုံးကွယ်ထားသော်လည်း၊ မြေပြင်ခြေရာခံချက်များအရ မှတ်တမ်းတင်ထားသော လူ့အခွင့်အရေးချိုးဖောက်မှု ၁,၀၄၅ ခု၏ ၇၀ ရာခိုင်နှုန်းသည် လယ်ယာစိုက်ပျိုးရေးစင်္ကြံများတွင် ဖြစ်ပွားခဲ့ပြီး ဒေသခံတို့၏ ရိတ်သိမ်းမှုလုပ်ငန်းများကို တိုက်ရိုက်ပျက်စီးစေခဲ့သည်။
+
+---
+
+### Decision 3: Educational Infrastructure Substitution
+* **English Perspective:** With 6.3 million school-aged children fully excluded from the state apparatus, local communities are autonomously building parallel, decentralized literacy environments, neutralizing central institutional leverage over future generations.
+* **Burmese Perspective (ဝိဇ္ဇာရှုထောင့်):** ကျောင်းနေအရွယ်ကလေးငယ် ၆.၃ သန်းအထိ စစ်ကော်မရှင်၏ ပညာရေးယန္တရားမှ ဖယ်ကျဉ်ခံထားရသဖြင့်၊ ဒေသခံလူထုသည် ဗဟိုအဖွဲ့အစည်းများ၏ လွှမ်းမိုးမှုကို လျှော့ချရန်အတွက် ပြည်သူ့အခြေပြု ဗဟိုမဲ့ပညာရေးပတ်ဝန်းကျင်များကို ကိုယ်ထူကိုယ်ထ စနစ်တကျ တည်ဆောက်လာကြသည်။
+
+---
+
+### Decision 4: Navigating Forced Mobilization
+* **English Perspective:** Civic networks are designing structural delays and validation barriers to counteract localized human capital extraction, shifting youth assets away from vulnerable deployment corridors into non-combatant production roles.
+* **Burmese Perspective (ဝိဇ္ဇာရှုထောင့်):** အရပ်ဘက်ကွန်ရက်များသည် အတင်းအကျပ် လူသူစုဆောင်းမှုများကို တားဆီးရန် စနစ်တကျ အချိန်ဆွဲခြင်းနှင့် အတည်ပြုခြင်းဆိုင်ရာ အတားအဆီးများကို ဖန်တီးကာ၊ လူငယ်များကို အန္တရာယ်ရှိသော စစ်မျက်နှာများမှ လွတ်ကင်းစေရန် အကြမ်းမဖက်သော ကုန်ထုတ်လုပ်မှု ကဏ္ဍများဆီသို့ လမ်းကြောင်းလွှဲပြောင်းပေးနေသည်။
+
+---
+
+### Decision 5: Financial Self-Reliance Modalities
+* **English Perspective:** Due to systematic microeconomic inflation and heavy-handed distribution controls, peer-to-peer alternative trust networks are bypassing formal banking gateways to keep local food systems stable.
+* **Burmese Perspective (ဝိဇ္ဇာရှုထောင့်):** စနစ်တကျ ဖြစ်ပေါ်နေသော အသေးစားစီးပွားရေး ငွေဖောင်းပွမှုနှင့် ဖြန့်ဖြူးမှုထိန်းချုပ်မှုများကြောင့်၊ ဒေသတွင်း စားနပ်ရိက္ခာစနစ် တည်ငြိမ်စေရန်အတွက် အရပ်သားအချင်းချင်း ယုံကြည်စိတ်ချရသော အစားထိုးငွေကြေး ကွန်ရက်များကို အသုံးပြုကာ တရားဝင်ဘဏ်စနစ်များကို ကျော်လွှားဆောင်ရွက်လာကြသည်။
+
+---
+
+### Decision 6: Narrative Autonomy vs. Coercive Peace Rhetoric
+* **English Perspective:** Empirical validation breaks the illusion of centralized peace overtures. Documenting infrastructural degradation at the perimeter confirms that administrative control is decaying despite aggressive policy marketing.
+* **Burmese Perspective (ဝိဇ္ဇာရှုထောင့်):** မြေပြင်အချက်အလက်များကို လက်တွေ့စစ်ဆေးခြင်းဖြင့် ဗဟို၏ အတုအယောင် ငြိမ်းချမ်းရေး ကမ်းလှမ်းမှုများကို ချေဖျက်နိုင်သည်။ အစွန်အဖျားဒေသများရှိ အခြေခံအဆောက်အအုံများ ပျက်စီးယိုယွင်းမှုကို မှတ်တမ်းတင်ခြင်းဖြင့်၊ ဝါဒဖြန့်မှုများ မည်မျှပင် ပြင်းထန်စေကာမူ အုပ်ချုပ်ရေးယန္တရား အမှန်တကယ် ပြိုလဲနေကြောင်း သက်သေပြနေသည်။
+
+---
+
+## ⚙️ Appendix: Module B Cryptographic Register
+
+```json
+{
+  "$schema": "[https://json-schema.org/draft/2020-12/schema](https://json-schema.org/draft/2020-12/schema)",
+  "system_identifier": "SSISM_WBEE_BEJ7_MODB",
+  "project_codename": "5475_Student_Analysis",
+  "timestamp": "2026-07-07T09:15:00Z",
+  "curator": "U Ingar Soe",
+  "analysis_type": "Dual-Language Empirical Civic Assessment",
+  "nodes_active": 7,
+  "status": "Ready for Termux Audit"
+}
