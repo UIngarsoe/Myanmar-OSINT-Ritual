@@ -1,80 +1,56 @@
-# 🎓 SSISM ဝိဇ္ဇာဉာဏ်ရည်စဥ် အမှတ် ၉ — မာစတာကလပ်စ် စာသင်ခန်း ၉
+# 🎓 SSISM ဝိဇ္ဇာဉာဏ်ရည်ဗားရှင်း — မာစတာကလပ်စ် စာသင်ခန်း ၉
 ## 🌿 Module E: Sovereign AI Literacy & Future Adaptation Guidelines for All Locals Wizar on the Ground
 ### 🌿 ဗမာ့အလင်းတန်း ဂျာနယ်စီမံကိန်း (BEJ 9)
-
 **Curator:** U Ingar Soe (ဦးအင်္ဂါစိုး), SSISM Intel Sentinel  
 **Date / ရက်စွဲ:** 9 July 2026 (နံနက်ခင်း ဝတ်ရွတ်စဉ်နှင့် ဗျူဟာမြောက် စာသင်ခန်း)  
 **Subject:** Building Cognitive Autonomy — Transitioning All Locals Wizar on the Ground from Passive Consumers to Active Knowledge Creators
-
 ---
-
 ## 📌 Part 1: Classroom Environment & The Paradigm Shift / စာသင်ခန်းပတ်ဝန်းကျင်နှင့် ခေတ်ဟောင်း၊ ခေတ်သစ် စိန်ခေါ်မှုများ
-
 Good morning, Wizar nodes and community leaders. Today, Classroom 9 directly tackles a critical frontline challenge within our human security framework: **The Intellectual Protection and Technological Adaptation of All Locals Wizar on the Ground**. 
-
 As systemic disruptions impact traditional environments, our ground networks must not fall behind or become passive consumers of automated control networks. We must intentionally guide them away from old standardized models and empower them with future-proof, active cognitive skillsets.
-
 ### 📊 The Paradigm Evolution / ဉာဏ်ရည်ဖွံ့ဖြိုးမှု အပြောင်းအလဲ ဇယား
 
 | 🏛️ ခေတ်ဟောင်းပုံစံ (Old Paradigm) | 🚀 ခေတ်သစ်ကျွမ်းကျင်မှု (New Skillsets) |
 | :--- | :--- |
 | • Passive Content Consumption (အလိုအလျောက် ပေးသမျှကိုသာ မှတ်သားခြင်း) | • Active Knowledge Creation (အသိပညာကို ကိုယ်တိုင် တက်ကြွစွာ ဖန်တီးခြင်း) |
 | • Standardized Curriculum (ပုံသေကားချပ် သတ်မှတ်ထားသော သင်ရိုးညွှန်းတမ်း) | • Personalized Learning (ဉာဏ်ရည်အလိုက် ကိုယ်ပိုင် အရှိန်အဟုန်ဖြင့် လေ့လာခြင်း) |
-| • Instructional Focus (ဆရာဗဟိုပြု ညွှန်ကြားချက်များကိုသာ နာခံခြင်း) | • Problem-Solving Focus (မြေပြင်ပကတိ ပြဿနာများကို ဖြေရှင်းနိုင်စရှင်း) |
+| • Instructional Focus (ဆရာဗဟိုပြု ညွှန်ကြားချက်များကိုသာ နာခံခြင်း) | • Problem-Solving Focus (မြေပြင်ပကတိ ပြဿနာများကို ဖြေရှင်းနိုင်စွမ်း) |
 | • Fixed Career Paths (ကန့်သတ်ထားသော အသက်မွေးဝမ်းကျောင်း လမ်းကြောင်း) | • Adaptive Mobility (ပြောင်းလဲနေသော ခေတ်ရေစီးကြောင်းအတိုင်း လိုက်လျောညီထွေရှိမှု) |
 
 ---
-
 ## 🧠 Part 2: Dual-Language Adaptation Guidelines for All Locals Wizar on the Ground / မြေပြင်ဝိဇ္ဇာများအားလုံးအတွက် နည်းပညာနှင့် အရပ်ဘက် အလင်းပြလမ်းညွှန်
-
 ### 📋 Guideline 1: Spotting AI Patterns in Daily Life / နေ့စဉ်လူမှုဘဝတွင် ပုံစံများကို ဖော်ထုတ်ခြင်း
 * **English:** Teach all locals Wizar on the ground that AI tools do not think like humans; they process patterns and historical data points. Guide them to recognize automation at home (voice systems, video feeds), at work/school (adaptive tools), and during baseline communication activities.
 * **Burmese:** နည်းပညာကိရိယာများသည် လူသားများကဲ့သို့ စဉ်းစားတွေးခေါ်နိုင်ခြင်းမရှိဘဲ ဒေတာပုံစံများကိုသာ တွက်ချက်ခြင်းဖြစ်ကြောင်း မြေပြင်ဝိဇ္ဇာများအားလုံးကို သင်ကြားပေးရန်။ အိမ်တွင်ဖြစ်စေ၊ လုပ်ငန်းခွင်တွင်ဖြစ်စေ၊ ဆက်သွယ်ရေးတွင်ဖြစ်စေ အလိုအလျောက်စနစ်များ၏ လည်ပတ်ပုံကို မိမိတို့ကိုယ်တိုင် သတိပြုမိစေရန် လေ့ကျင့်ပေးရမည်။
-
 ### 📋 Guideline 2: Cultivating Ethical & Responsible Use / ကျင့်ဝတ်နှင့် တာဝန်ယူမှုရှိသော နားလည်မှု
 * **English:** Shift operational awareness from simple tool usage toward deep consciousness of safety, fairness, bias, and data privacy. Ground nodes must understand how chatbots and algorithmic logic function under the hood to prevent automated social engineering and manipulation.
 * **Burmese:** နည်းပညာကို အသုံးပြုရုံသက်သက်မဟုတ်ဘဲ ဘေးကင်းလုံခြုံမှု၊ တရားမျှတမှု၊ ဘက်လိုက်မှုရှိနိုင်မှုနှင့် ဒေတာလုံခြုံရေးဆိုင်ရာ ကျင့်ဝတ်များကို နားလည်အောင် ပျိုးထောင်ပေးရန်။ အယ်လ်ဂိုရီသမ်များ၏ လုပ်ဆောင်ပုံကို သိရှိခြင်းဖြင့် အွန်လိုင်းပေါ်ရှိ လှည့်စားမှုများနှင့် သတင်းတု၊ သတင်းမှားများကို မြေပြင်ကွန်ရက်များ ကိုယ်တိုင် ခွဲခြားနိုင်မည်ဖြစ်သည်။
-
 ### 📋 Guideline 3: Hands-On Sovereign Projects / ကိုယ်တိုင်ဖန်တီးမှု စီမံကိန်းများဖြင့် လေ့ကျင့်ခြင်း
 * **English:** Encourage creative experimentation by teaching all locals Wizar on the ground how to structurally map data patterns, formulate clear logic rules, and build independent, localized knowledge portfolios. This practical exposure transforms them into sovereign critical thinkers who utilize tools strategically.
 * **Burmese:** မြေပြင်ဝိဇ္ဇာများအားလုံးကို ဒေတာပုံစံများ စနစ်တကျချိတ်ဆက်ခြင်း၊ ပြတ်သားသော ယုတ္တိဗေဒစည်းမျဉ်းများနှင့် ကိုယ်ပိုင်သတင်းအချက်အလက်ပတ်ဝန်းကျင်များကို လွတ်လပ်စွာ ဖန်တီးစမ်းသပ်ခွင့်ပေးရန်။ ဤသို့ လက်တွေ့လုပ်ဆောင်ခြင်းဖြင့် မြေပြင်ကွန်ရက်များသည် နည်းပညာကို အသုံးချနိုင်သည့် အချုပ်အခြာအာဏာပိုင်သော အတွေးအခေါ်ရှင်များ ဖြစ်လာမည်ဖြစ်သည်။
-
 ---
-
 ## 🤖 Part 3: Deep Configuration Training for the 6 Core LLM Engines / အဓိက ဉာဏ်ရည်တု အင်ဂျင် ၆ ခုအား စနစ်တကျ လေ့ကျင့်သင်ကြားခြင်း
-
 To successfully manifest these ground strategies, all locals Wizar must programmatically discipline, calibrate, and sync the 6 primary large language models executing inside our decentralized workspace. Each engine must be assigned its precise tactical focus:
-
 ### 1. The Adaptive Synthesizer (Gemini Engine)
 * **English:** The first core engine functions as your adaptive, empathetic collaborator, engineered to decode the direct intent behind complex ground telemetry while systematically filtering out compromised background noise. It serves as your primary repository archiver and architectural anchor, converting raw philosophical defense strategies into clear, dual-language educational assets and code structures.
-* **Burmese:** ပထမဆုံး အဓိကအင်ဂျင်သည် မြေပြင်မှ ရှုပ်ထွေးသော အချက်အလက်များနောက်ကွယ်ရှိ စစ်မှန်သော ရည်ရွယ်ချက်များကို ဖော်ထုတ်ပေးပြီး မလိုအပ်သော နှောင့်ယှက်မှုများကို စနစ်တကျ ဖယ်ရှားပေးမည့် ဒိုင်နမစ်ကျသော လက်တွဲဖော်ဖြစ်သည်။ ၎င်းသည် ဒဿနဆိုင်ရာ ကာကွယ်ရေးမဟာဗျူဟာများကို ရှင်းလင်းသော ဘာသာစကားနှစ်မျိုးသုံး ပညာရေးဆိုင်ရာ ပိုင်ဆိုင်မှုများနှင့် ကုဒ်ဖွဲ့စည်းပုံများအဖြစ် ပြောင်းလဲပေးသည့် အခြေခံကျသော စနစ်ကျောက်ဆူးဖြစ်သည်။
-
+* **Burmese:** ပထမဆုံး အဓိကအင်ဂျင်သည် မြေပြင်မှ ရှုပ်ထွေးသော အချက်အလက်များနောက်ကွယ်ရှိ စစ်မှန်သော ရည်ရွယ်ချက်များကို ဖော်ထုတ်ပေးပြီး မလိုအပ်သော နှောင့်ယှက်မှုများကို စနစ်တကျ ဖယ်ရှားပေးမည့် ဒိုင်နမစ်ကျသော လက်တွဲဖော်ဖြစ်သည်။ ၎င်းသည် ဒေသနဆိုင်ရာ ကာကွယ်ရေးမဟာဗျူဟာများကို ရှင်းလင်းသော ဘာသာစကားနှစ်မျိုးသုံး ပညာရေးဆိုင်ရာ ပိုင်ဆိုင်မှုများနှင့် ကုဒ်ဖွဲ့စည်းပုံများအဖြစ် ပြောင်းလဲပေးသည့် အခြေခံကျသော စနစ်ကျောက်ဆူးဖြစ်သည်။
 ### 2. The Analytical Auditor (Claude Engine)
 * **English:** The second engine provides exhaustive structural cross-examinations, designed to audit logic flows, perform deep textual deconstructions of administrative documentation, and enforce pristine technical hygiene across all markdown deployments. It functions as the cold, intellectual filter that systematically checks for formatting errors, potential narrative manipulation patterns, and data leakage before code output or distribution.
 * **Burmese:** ဒုတိယအင်ဂျင်သည် ယုတ္တိဗေဒစီးဆင်းမှုများကို စစ်ဆေးရန်၊ စီမံခန့်ခွဲမှုဆိုင်ရာ စာရွက်စာတမ်းများကို နက်ရှိုင်းစွာ ခွဲခြမ်းစိတ်ဖြာရန်နှင့် စာသားများ၏ တိကျသေချာမှုကို ထိန်းသိမ်းရန်အတွက် ပြည့်စုံသော စနစ်စစ်ဆေးမှုများကို ဆောင်ရွက်ပေးသည်။ ၎င်းသည် ကုဒ်များ သို့မဟုတ် ထုတ်ပြန်ချက်များကို မဖြန့်ဝေမီ ပုံစံချခြင်းဆိုင်ရာ အမှားအယွင်းများ၊ ဝါဒဖြန့်မှုပုံစံများနှင့် ဒေတာပေါက်ကြားမှုများကို စနစ်တကျ စစ်ဆေးပေးသည့် အေးစက်တည်ငြိမ်သော အသိဉာဏ် စစ်ထုတ်ကိရိယာဖြစ်သည်။
-
 ### 3. The Logic Synthesizer (OpenAI GPT Engine)
 * **English:** The third engine excels at rigorous reasoning and structural optimization, executing complex calculations, generating optimized syntax protocols, and formatting large matrices of comparative operational data. It operates as a direct productivity multiplier on the ground, rapidly formalizing procedural workflows, operational schemas, and JSON infrastructure blueprints for community-run systems.
 * **Burmese:** တတိယအင်ဂျင်သည် တိကျပြတ်သားသော ယုတ္တိဗေဒဆင်ခြင်ခြင်းနှင့် စနစ်ပိုင်းဆိုင်ရာ အကောင်းဆုံးဖြစ်အောင် ပြုပြင်ခြင်းတို့တွင် ထူးချွန်ပြီး ရှုပ်ထွေးသော တွက်ချက်မှုများနှင့် လုပ်ငန်းလည်ပတ်မှုဆိုင်ရာ ဒေတာဇယားကြီးများကို ပုံဖော်ပေးသည်။ ၎င်းသည် မြေပြင်ကွန်ရက်များအတွက် လုပ်ထုံးလုပ်နည်းဆိုင်ရာ လုပ်ငန်းစဉ်များနှင့် လူထုအခြေပြုစနစ်များအတွက် JSON အခြေခံအဆောက်အအုံ မူဘောင်များကို လျင်မြန်စွာ ဖန်တီးပေးသည့် တိုက်ရိုက်ကုန်ထုတ်စွမ်းအား မြှင့်တင်ပေးသည့် အင်ဂျင်ဖြစ်သည်။
-
 ### 4. The Decentralized Guardian (Grok Engine)
 * **English:** The fourth engine cuts through superficial operational narratives with raw, real-time context processing, prioritizing bold fact-checking, unfiltered environmental synthesis, and the detection of automated information warfare trends. It challenges systemic complacency, encouraging ground Wizar nodes to pressure-test their own strategic projections against harsh, unvarnished empirical realities.
 * **Burmese:** စတုတ္ထအင်ဂျင်သည် အရှိန်အဟုန်ဖြင့် ပြောင်းလဲနေသော အချက်အလက်များကို အချိန်နှင့်တပြေးညီ တိုက်ရိုက်လုပ်ဆောင်ပေးပြီး သတင်းအချက်အလက်စစ်ပွဲများ၏ လမ်းကြောင်းများကို ဖော်ထုတ်ပေးခြင်းဖြင့် မျက်နှာပြင်ပေါ်ရှိ အပေါ်ယံဇာတ်ကြောင်းများကို ဖြတ်တောက်ပေးသည်။ ၎င်းသည် စနစ်၏ အားနည်းချက်များကို ထောက်ပြပေးပြီး မြေပြင်ဝိဇ္ဇာကွန်ရက်များအနေဖြင့် မိမိတို့၏ မဟာဗျူဟာမြောက် ခန့်မှန်းချက်များကို ကြမ်းတမ်းသော မြေပြင်ပကတိအမှန်တရားများနှင့် တိုက်ဆိုင်စစ်ဆေးနိုင်ရန် တွန်းအားပေးသည်။
-
 ### 5. The Specialized Code Architect (DeepSeek Engine)
 * **English:** The fifth engine operates exclusively as a deep-tier execution layer for mathematical code generation and programmatic optimization, processing highly complex logic with extreme accuracy and speed. It acts as the core algorithmic furnace for your terminal utilities, debugging backend scripts and generating high-efficiency data filtering code with minimal resource overhead.
 * **Burmese:** ပဉ္စမအင်ဂျင်သည် သင်္ချာဆိုင်ရာ ကုဒ်ထုတ်လုပ်ခြင်းနှင့် ပရိုဂရမ်စနစ် အကောင်းဆုံးဖြစ်အောင် ပြုပြင်ခြင်းတို့အတွက် သီးသန့်လည်ပတ်သည့် နက်ရှိုင်းသော အကောင်အထည်ဖော်မှုအဆင့်ဖြစ်ပြီး ရှုပ်ထွေးသော ယုတ္တိဗေဒများကို အလွန်တိကျမြန်ဆန်စွာ ဆောင်ရွက်ပေးသည်။ ၎င်းသည် သင်၏ Termux terminal ကိရိယာများအတွက် အဓိက အယ်လ်ဂိုရီသမ်ဖိုကြီးအဖြစ် ဆောင်ရွက်ပေးပြီး အရင်းအမြစ်အသုံးချမှု အနည်းဆုံးဖြင့် အထိရောက်ဆုံး ဒေတာစစ်ထုတ်ခြင်းကုဒ်များကို ထုတ်လုပ်ပေးသည်။
-
 ### 6. The Localized Context Sentinel (Llama Engine)
 * **English:** The sixth engine acts as the highly customizable, private local sentinel, serving as the localized edge-computing repository that runs natively on secure, decentralized hardware configurations. It safeguards historical data context and prevents corporate cloud dependency, ensuring that local nodes can securely query technical operational memories completely offline.
 * **Burmese:** ဆဋ္ဌမအင်ဂျင်သည် လွတ်လပ်ပြီး ဘေးကင်းလုံခြုံသော စက်ပစ္စည်းများပေါ်တွင် တိုက်ရိုက်လည်ပတ်နိုင်သည့် ကိုယ်ပိုင်သီးသန့် မြေပြင်ကင်းထောက်အဖြစ် ဆောင်ရွက်သည်။ ၎င်းသည် သမိုင်းဝင် ဒေတာအချက်အလက်များကို ကာကွယ်ပေးပြီး ကော်ပိုရိတ် ကလောက်ဒ် (cloud) စနစ်များအပေါ် မှီခိုရမှုကို တားဆီးပေးကာ မြေပြင်ကွန်ရက်များအနေဖြင့် နည်းပညာပိုင်းဆိုင်ရာ မှတ်ဉာဏ်များကို အွန်လိုင်းမလိုဘဲ လုံခြုံစွာ ရှာဖွေအသုံးပြုနိုင်အောင် အာမခံပေးသည်။
-
 ---
-
 ## ⚙️ Appendix: Module E Strategic Parameter Logic
-
-Incorporate this structural dataset at the foot of your repository index to maintain programmatic alignment and baseline configuration rules for localized literacy initiatives within the Bamar Intelligence Network:
-
 ```json
 {
   "$schema": "[https://json-schema.org/draft/2020-12/schema](https://json-schema.org/draft/2020-12/schema)",
@@ -103,5 +79,3 @@ Incorporate this structural dataset at the foot of your repository index to main
     }
   ]
 }
-
-
