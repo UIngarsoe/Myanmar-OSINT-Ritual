@@ -1,4 +1,3 @@
-Here is the cleaned, raw text version of your complete file. It is explicitly formatted to fix any formatting bugs and ensure that it renders beautifully when uploaded to your repository:
 # 🪷 WIZAR ADVANCED CLASS 3
 
 ## Appendix Master Teaching: Bamar Enlightenment Journal
