@@ -150,3 +150,75 @@ Section C: Practical Application Framework (လက်တွေ့ရှုမှ
 }
 
 
+​အောက်တွင် ဆရာ U Ingar Soe ၏ Wizar Advanced Class သင်တန်းသားများအတွက် စာရွက်စာတမ်းများတွင် ပူးတွဲထည့်သွင်းရန် စနစ်တကျ ပြုစု​ပေးထားသော Meditation Teaching Appendix (တရားဘာဝနာပြန့်ပွားခြင်း နောက်ဆက်တွဲမှတ်တမ်း) ဖြစ်ပါသည်။
+ဤမှတ်တမ်းသည် သမထနှင့် ဝိပဿနာ၊ အာနာပါနနှင့် မိုးကုတ်/မဟာစည် နည်းလမ်းများ၏ လက်တွေ့ကျင့်စဉ်များကို အင်္ဂလိပ်-မြန်မာ နှစ်ဘာသာဖြင့် ရှင်းလင်းစွာ လမ်းညွှန်ထားသည်။
+
+📑 APPENDIX: THE ARCHITECTURE OF DISCERNMENT (တရားဘာဝနာ လက်တွေ့ကျင့်စဉ် လမ်းညွှန်)
+=============================================================================
+SYSTEM LAYER: MENTAL INFRASTRUCTURE / COGNITIVE PURIFICATION
+ALIGNMENT: ENLIGHTENMENT CORE INTEGRATION
+=============================================================================
+
+SECTION 1: THE CORE MATRIX of VIPASSANA (ဝိပဿနာ၏ အခြေခံသဘောတရား)
+🇬🇧 English Exposition
+The term Vipassana is rooted in the Pali prefix "Vi", meaning "distinguished, specifically, or through diverse modes." It breaks down into "Vi + Passana", signifying the breakdown of conventional realities (Pannatti) into ultimate realities (Paramattha) through specific insights:
+ * Special Cognition: Penetrating the intrinsic nature of mind and matter (Nama-Rupa) through the eye of wisdom, going beyond raw physical sight.
+ * Diverse Discernment: Observing the Five Aggregates through the Three Characteristics of Existence: Anicca (Impermanence), Dukkha (Suffering), and Anatta (Non-self).
+ * Analytical Penetration: Stripping away concepts (names and forms) to clearly isolate the arising and passing away of ultimate realities (Paramattha).
+ * Passana: The practice of mindful observation or the wisdom that accurately sees phenomena exactly as they are.
+🇲🇲 မြန်မာဘာသာ ပြန်ဆိုချက်
+ဝိပဿနာ ဟူသော စကားလုံးတွင် “ဝိ” (Vi) ဆိုသည်မှာ “ထူးထူးခြားခြား၊ အထူးသဖြင့်၊ အမျိုးမျိုးသော အခြင်းအရာအားဖြင့်” ဟု အဓိပ္ပာယ်ရပါသည်။ ပါဠိသဒ္ဒါအရ ဝိပဿနာကို “ဝိ + ပဿနာ” ဟု ခွဲခြားနိုင်ပြီး ၎င်း၏ အစိတ်အပိုင်းတစ်ခုချင်းစီ၏ အဓိပ္ပာယ်မှာ အောက်ပါအတိုင်း ဖြစ်ပါသည် -
+ * အထူးသဖြင့် သိမြင်ခြင်း: သာမန်မျက်စိဖြင့် မမြင်နိုင်သော ရုပ်နာမ်တရားတို့၏ သဘာဝကို ဉာဏ်မျက်စိဖြင့် ထိုးထွင်းသိမြင်ခြင်း ဖြစ်သည်။
+ * အမျိုးမျိုးသော အခြင်းအရာအားဖြင့် သိမြင်ခြင်း: ခန္ဓာငါးပါး၊ ရုပ်နာမ်တရားတို့ကို အနိစ္စ (မမြဲခြင်း)၊ ဒုက္ခ (ဆင်းရဲခြင်း)၊ အနတ္တ (အတ္တမဟုတ်ခြင်း) ဟူသော လက္ခဏာရေးသုံးပါးဖြင့် အဖုံဖုံအမျိုးမျိုး ရှုမြင်ခြင်း ဖြစ်သည်။
+ * ဖောက်ထွင်း၍ သိမြင်ခြင်း: ပညတ်တရား (အမည်နာမ၊ ပုံသဏ္ဌာန်) များကို ခွာ၍ ပရမတ်တရား (အစစ်အမှန်သဘောတရား) တို့၏ ဖြစ်ပျက်မှုကို ကွဲကွဲပြားပြား မြင်ခြင်း ဖြစ်သည်။
+ * ပဿနာ: ရှုခြင်း သို့မဟုတ် ရှုမြင်တတ်သော ဉာဏ်- အမှန်အတိုင်း စောင့်ကြည့်အကဲခတ်ခြင်း သို့မဟုတ် ပညာဉာဏ်ဖြင့် ကြည့်ခြင်းကို ဆိုလိုသည်။
+SECTION 2: SAMATHA VS. VIPASSANA (သမထနှင့် ဝိပဿနာ ကွာခြားချက်)
+| Operational Layer | 🇬🇧 Samatha (Tranquility) | 🇲🇲 သမထ (စိတ်တည်ငြိမ်ခြင်း) | 🇬🇧 Vipassana (Insight) | 🇲🇲 ဝိပဿနာ (ဉာဏ်ပွင့်ခြင်း) |
+|---|---|---|---|---|
+| Objective / ရည်ရွယ်ချက် | Quieting the mind to achieve deep concentration (Samadhi); temporarily suppressing defilements. | စိတ်ကို ငြိမ်သက်အောင် ပြုလုပ်ခြင်း။ သမာဓိရရှိရန်နှင့် ကိလေသာများကို ခေတ္တငြိမ်းအေးစေရန်။ | Cultivating wisdom to see ultimate reality; eradicating defilements at the root. | အမှန်အတိုင်း ထိုးထွင်းသိမြင်ခြင်း။ ပညာဉာဏ်ရရှိရန်နှင့် ကိလေသာများကို အမြစ်ပြတ်ပယ်သတ်ရန်။ |
+| Focus Object / အာရုံပြုပုံ | Fixed on conceptual objects (Pannatti) like beads, kasinas, or breathing form. | ပညတ်အာရုံ တစ်ခုတည်းပေါ်တွင် စိတ်ကို စူးစိုက်ခြင်း (ဥပမာ- ဂုဏ်တော်ပုတီးစိပ်ခြင်း၊ ကသိုဏ်းရှုခြင်း)။ | Fixed on ultimate realities (Paramattha) like the changing dynamics of mind and body. | ပရမတ်အာရုံဖြစ်သော လက်ရှိဖြစ်ပေါ်နေသည့် ရုပ်နာမ်တရားတို့၏ အပြောင်းအလဲကို စောင့်ကြည့်ခြင်း။ |
+| Mind State / စိတ်၏ အလုပ် | Controlling and locking the mind onto a single coordinate point to block out noise. | စိတ်ကို ငြိမ်နေအောင် ထိန်းချုပ်ချုပ်ကိုင်ထားခြင်း၊ အခြားအာရုံများ မဝင်လာအောင် ပိတ်ဆို့ထားခြင်း။ | Keeping the mind open, observing the immediate present state with absolute awareness. | စိတ်ကို ချုပ်ကိုင်မထားဘဲ ပစ္စုပ္ပန်တည့်တည့်တွင် ဖြစ်ပျက်သမျှကို သတိဖြင့် စောင့်ကြည့်ခြင်း။ |
+| Outcome / ရလဒ် | Peace of mind, mental stability, meditative absorptions (Jhana), but defilements can return. | စိတ်ချမ်းသာမှု၊ တည်ငြိမ်မှု၊ ဈာန်တန်ခိုးရခြင်း။ ကိလေသာကို ခေတ္တသာ ဖိနှိပ်ထားသဖြင့် ပြန်ဖြစ်နိုင်သည်။ | Realization of Impermanence, Suffering, and Non-self; liberation from the cycle of suffering (Nibbana). | ရုပ်နာမ်တို့၏ အနိစ္စ၊ ဒုက္ခ၊ အနတ္တကို သိမြင်ကာ သံသရာဝဋ်ဆင်းရဲမှ လွတ်မြောက်ကြောင်း နိဗ္ဗာန်သို့ ရောက်ခြင်း။ |
+SECTION 3: PRACTICAL APPLICATION FRAMEWORK (လက်တွေ့ရှုမှတ်နည်း အဆင့်ဆင့်)
+🧘 1. ANAPANASATI (ထွက်သက်ဝင်သက်ကို သတိဖြင့် စောင့်ကြည့်ခြင်း)
+ * 🇬🇧 Preparation: Sit comfortably with a straight spine. Close your eyes, relax your physical form, and lighten your mind. Focus strictly on the touch-point at the tip of the nose or upper lip.
+ * 🇲🇲 ပြင်ဆင်ခြင်း: ကျောပြင်ကို ဖြောင့်ဖြောင့်ထား၍ သက်တောင့်သက်သာ ထိုင်ပါ။ မျက်စိမှိတ်၊ ကြွက်သားများကို လျှော့ချပြီး စိတ်ကို ပေါ့ပေါ့ပါးပါး ထားပါ။ နှာသီးဖျား သို့မဟုတ် အပေါ်နှုတ်ခမ်းရှိ လေထိခတ်မှုကိုသာ အာရုံစိုက်ပါ။
+Two Tactical Paths (ရှုမှတ်ပုံ နည်းလမ်းနှစ်မျိုး):
+ * Samatha Strategy (သမထနည်း):
+   * EN: Note "In" as air enters and "Out" as it exits, or count 1 to 8 to bind the mind.
+   * MM: လေဝင်လျှင် "ဝင်တယ်"၊ လေထွက်လျှင် "ထွက်တယ်" ဟု မှတ်ပါ (သို့မဟုတ်) ၁ မှ ၈ အထိ ဂဏန်းရေတွက်ပါ။
+ * Vipassana Strategy (ဝိပဿနာနည်း):
+   * EN: Drop the conceptual form of air; observe only the raw tactile sensations—heat, cold, hardness, or motion—and notice their constant arising and vanishing (Origination and Dissolution).
+   * MM: လေ၏ ပုံသဏ္ဌာန်ကို မတွေးဘဲ နှာသီးဖျားရှိ "အထိအတွေ့ (ပူခြင်း၊ အေးခြင်း၊ တိုးခြင်း၊ တွန်းခြင်း)" သဘောနှင့် ၎င်းတို့၏ ဖြစ်ပျက်မှုကို ဉာဏ်ဖြင့် စောင့်ကြည့်ပါ။
+🌊 2. MAHASI METHOD (မဟာစည်နည်း - ရူပနုပဿနာ)
+ * 🇬🇧 Core Vector: Focuses primarily on physical form and motion (Rupa).
+ * 🇲🇲 အခြေခံမူ: ရုပ်တရား (ခန္ဓာကိုယ်လှုပ်ရှားမှု) ကို အဓိကထား၍ ရှုမှတ်သော စနစ်ဖြစ်သည်။
+ * 🇬🇧 Practical Steps:
+   * Anchor the attention to the abdomen. As air enters and the abdomen expands, note "Rising" from beginning to end. As air exits and the abdomen contracts, note "Falling".
+   * If a wandering thought occurs, immediately note "Thinking, Planning" and return to the anchor. If physical pain arises, shift focus to the pain and note "Pain, Pain" until it shifts or dissolves, then return to Rising/Falling.
+ * 🇲🇲 လက်တွေ့ရှုမှတ်ပုံ:
+   * ဝမ်းဗိုက်ပေါ်သို့ စိတ်ကို ပို့ထားပါ။ လေဝင်၍ ဗိုက်ဖောင်းတက်လာလျှင် “ဖောင်းတယ်”၊ လေထွက်၍ ဗိုက်ပိန်ကျသွားလျှင် “ပိန်တယ်” ဟု အစမှအဆုံးထိ စောင့်ကြည့်မှတ်သားပါ။
+   * စိတ်လွင့်သွားပါက “တွေးတယ်၊ ကြံတယ်” ဟု သိသိချင်းမှတ်ပြီး ဗိုက်၏ ဖောင်းပိန်ဆီ ပြန်လာပါ။ နာကျင်မှုပေါ်လာပါက “ညောင်းတယ်၊ နာတယ်” ဟု ထိုဝေဒနာပေါ် စိတ်စိုက်ရှုမှတ်ပါ။ ဝေဒနာပျောက်လျှင် ဖောင်းပိန်ဆီ ပြန်လာပါ။
+🔄 3. MOGOK METHOD (မိုးကုတ်နည်း - စိတ္တာနုပဿနာ)
+ * 🇬🇧 Core Vector: Focuses on the arising and passing away of consciousness (Citta).
+ * 🇲🇲 အခြေခံမူ: ပေါ်လာသမျှ စိတ်အမျိုးမျိုး၏ ဖြစ်ပျက်မှုကို ဉာဏ်ဖြင့် လိုက်ကြည့်သော စနစ်ဖြစ်သည်။
+ * 🇬🇧 Practical Steps:
+   * Understand that the human mind can only hold one state at a time. Recognize the "inhalation-awareness mind" and notice its dissolution before the "exhalation-awareness mind" arises.
+   * If greed arises, note "Greed mind arisen, now dissolved." If anger flashes, note "Anger mind arisen, now dissolved."
+   * The Core Formula: "The phenomenon is the Aggregate; the observer is Wisdom." Every state is caught in a cycle of immediate origination and dissolution (Anicca).
+ * 🇲🇲 လက်တွေ့ရှုမှတ်ပုံ:
+   * လူ့စိတ်သည် တစ်ချိန်မှာ တစ်ခုပဲ ပေါ်နိုင်သည်။ နှာသီးဖျားတွင် လေဝင်မှန်းသိသော “ဝင်စိတ်” လေး ပေါ်ပြီး ပျောက်သွားမှ “ထွက်စိတ်” လေး ပေါ်သည်။ ထို ပေါ်ပြီး ပျောက်ပျက်သွားခြင်းကို ဉာဏ်ဖြင့် လိုက်ကြည့်ပါ။
+   * လောဘစိတ်ပေါ်ရင် “လောဘစိတ် ပေါ်တယ်၊ ချုပ်တယ် (ပျောက်တယ်)”၊ ဒေါသစိတ်ပေါ်ရင် “ဒေါသစိတ် ပေါ်တယ်၊ ချုပ်တယ်” ဟု စိတ်ကို စိတ်ဖြင့် ပြန်လည်စောင့်ကြည့်ပါ။
+   * အဓိကသော့ချက်: “ဖြစ်တာက ခန္ဓာ၊ သိတာက ဉာဏ်” ဟု ဆိုသည့်အတိုင်း စိတ်ထဲတွင် ဘာပဲပေါ်ပေါ် ပေါ်လာသမျှတရားသည် “ဖြစ်ပြီးပျက်” သွားတာချည်းပဲဟု ဉာဏ်ဖြင့် ဆုံးဖြတ်ချက်ချရပါမည်။
+SECTION 4: DECONSTRUCTING THE FIVE AGGREGATES (ခန္ဓာ ၅ ပါးကို ခွဲခြားဆင်ခြင်ခြင်း)
+When pain or thoughts disrupt the meditation session, the operator shifts from subjective identification ("I am hurts") to objective parsing of the Five Aggregates:
+ * Rupakkhandha (ရုပ်အစုအပုံ): The physical body, the skin, bones, and the raw element of wind moving through the nostrils.
+ * Vedanakkhandha (ခံစားမှုအစုအပုံ): The sensation itself—either pleasant (Sukha), painful (Dukkha), or neutral (Adukkhamasukha).
+ * Sannakkhandha (မှတ်သားမှုအစုအပုံ): The memory or label designating the target: "This is a knee pain," or "This is my friend."
+ * Sankharakkhandha (စေဆော်ပြုပြင်မှုအစုအပုံ): The mental reactions or emotional volitions triggered by the label, such as irritation, anger, or desire.
+ * Vinnanakkhandha (သိမှုအစုအပုံ): The bare conscious awareness that registers the sensory input (e.g., the hearing-mind or seeing-mind).
+> 💡 Wisdom Anchor (ပညာ၏ အကျိုးသက်ရောက်မှု):
+> By treating pain not as a personal crisis ("I am in pain") but merely as the transient passage of Vedanakkhandha (ဝေဒနာက္ခန္ဓာ) arising and dissolving, the illusion of "Self" is neutralised, elevating the system node into advanced processing clarity.
+> 
+U Ingar Soe
+Bamar Enlightenment Journal Executive Editor 2026 July 12 at 8:08 AM
