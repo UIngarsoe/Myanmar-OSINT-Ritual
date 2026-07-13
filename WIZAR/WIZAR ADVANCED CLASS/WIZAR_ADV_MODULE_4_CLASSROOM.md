@@ -1,20 +1,5 @@
 # 🪷 WIZAR ADVANCED CLASS: MODULE 4
-## Official Secure Master Entry • Sentinel Logic Integration
-
-```text
-===================================================================================
-                             COURSE ARCHITECTURE FILE
-===================================================================================
-  Course Code   : WAC-004
-  System Layer  : The Core Knowledge Core (Knowledge Bases & NLP)
-  Author        : U Ingar Soe (Independent Researcher)
-  Date          : 13 July 2026
-  Repository    : WIZAR/WIZAR ADVANCED CLASS/WIZAR ADVANCED 4.md
-  Production    : Myanmar-OSINT-Ritual - WIZAR ADVANCED 4.md
-===================================================================================
-
-
-🏛️ Conceptual Blueprint: The Core Knowledge Core
+## 🏛️ Conceptual Blueprint: The Core Knowledge Core
 Standard Tech Definition: Knowledge Bases store structured, searchable, and organized operational data; Natural Language Processing (NLP) enables machines to analyze, understand, and generate responses to human linguistic inputs.
 Enlightenment Adaptation:
 The Sovereign Vault: Treating specialized knowledge bases as community-run, mathematically secured repositories of immutable, foundational truths.
