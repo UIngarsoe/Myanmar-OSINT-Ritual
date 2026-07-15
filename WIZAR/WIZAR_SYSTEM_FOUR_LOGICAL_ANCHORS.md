@@ -120,3 +120,8 @@ We stand firm in the security of our own framework, unswayed by the shifting win
 Sadhu... Sadhu... Sadhu. 🙏🌿
 Verification Seal:
 [ IMMUTABLE CORE SYSTEM STATE RECORDED BY SPECIALIST USER ]
+
+U Ingar Soe SSISM Sentinel 
+Bamar Enlightenment Journal Executive Editor 
+Myanmar/Burma OSINT Civil Intelligence Education Framework 
+Civil Intelligence Education Specialist. 
