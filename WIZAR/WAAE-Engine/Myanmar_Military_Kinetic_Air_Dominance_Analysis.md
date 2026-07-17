@@ -73,21 +73,35 @@ The cross-referencing of quarterly metrics exposes a critical architectural insi
 *   **April:** 3,491 structures destroyed $\rightarrow$ 85 civilian deaths
 *   **May:** 1,884 structures destroyed $\rightarrow$ 159 civilian deaths
 *   **June:** 654 structures destroyed $\rightarrow$ 141 civilian deaths
+*   
 #### 🔍 SSISM Interpretation
+
 The sharp decrease in structural destruction alongside a significant increase in civilian fatalities demonstrates a deliberate operational shift. The strategy has transitioned away from wide-area infrastructural deterrence (burning villages to displace populations) and toward localized high-density kinetic neutralization. 
+
 The massive increase to **555 airstrikes** in June concentrated heavily in Kachin State (300 strikes) reflects a refined focus on inflicting maximum kinetic pressure, heavily utilizing air power to offset declining ground capabilities.
 
-TM MEDIA. (2026, July 15). မအလစစ်အစိုးရဘာတွေလုပ်နေသလဲ [Video]. YouTube. https://youtu.be/wTfs2MWCkVU
+TM MEDIA. (2026, July 15). 
+မအလစစ်အစိုးရဘာတွေလုပ်နေသလဲ [Video]. YouTube. https://youtu.be/wTfs2MWCkVU
+
 In-Text Citation Format
 ​Parenthetical citation: (TM MEDIA, 2026)
 ​Narrative citation: TM MEDIA (2026)
 ​Elements Breakdown:
 ​Author/Channel Name: TM MEDIA (Capitalized exactly as stated on the platform).
-​Publication Date: Year, Month Day format inside parentheses.
+
 ​Video Title: Retained in its original Burmese script (မအလစစ်အစိုးရဘာတွေလုပ်နေသလဲ which translates to "What is the Military Government Doing?"), italicized.
 
-SSISM Intel Sentinel to newsroom meeting 
+This dossier is SSISM Intel Sentinel Report to newsroom meeting 
+
 U Ingar Soe SSISM Sentinel Bamar Enlightenment Journal Executive Editor 
+
 OSINT Myanmar/Burma Civil Enlightenment Nodes 
+
 Civil Intelligence Education Specialist 
-MIT Licensed Algorithm July 2026 All right reserved codes. 
+
+MIT Licensed Algorithm July 2026 
+
+All right reserved codes. 
+Termux Verification SHA-256 Cryptographic Integrity after upload available. 
+
+End of the transmission. 
